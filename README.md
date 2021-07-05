@@ -1,2 +1,14 @@
-OSP - DA2
+# PORTFOLIO 
+
+
+TECHNOLOGIES USED
+----------------------------
+
+- HTML 
+- CSS
+- JavaScript
+ 
+    
+
+
 
